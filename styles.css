@@ -23,8 +23,9 @@ body {
   padding: 3px;
   -webkit-text-stroke: 2px #001f3d;
   font-family: "BR Cobane", sans-serif;
-  width: 40%;
+  width: 50%;
   margin:20px auto;
+  font-size: 40px;
 }
 .sub-head {
   background-color: #91bacd;
